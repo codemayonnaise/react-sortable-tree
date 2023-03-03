@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import React, { Component, Children, cloneElement } from 'react';
 import { DragSource, DropTarget, DndContext, DndProvider } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
-import { List, AutoSizer } from 'react-virtualized';
+import { List, AutoSizer } from '@codemayonnaise/react-virtualized';
 import withScrolling, { createScrollingComponent, createVerticalStrength, createHorizontalStrength } from '@codemayonnaise/react-dnd-scrollzone';
 import { findDOMNode } from 'react-dom';
 

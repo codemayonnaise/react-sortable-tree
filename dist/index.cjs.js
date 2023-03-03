@@ -7,7 +7,7 @@ var PropTypes = require('prop-types');
 var React = require('react');
 var reactDnd = require('react-dnd');
 var reactDndHtml5Backend = require('react-dnd-html5-backend');
-var reactVirtualized = require('react-virtualized');
+var reactVirtualized = require('@codemayonnaise/react-virtualized');
 var withScrolling = require('@codemayonnaise/react-dnd-scrollzone');
 var reactDom = require('react-dom');
 

@@ -75,12 +75,12 @@
   },
   "dependencies": {
     "@codemayonnaise/react-dnd-scrollzone": "^1.0.17",
+    "@codemayonnaise/react-virtualized": "^9.22.5",
     "lodash.isequal": "^4.5.0",
     "prop-types": "^15.7.2",
     "react-dnd": ">=11.1.3",
     "react-dnd-html5-backend": "^14.0.0",
-    "react-lifecycles-compat": "^3.0.4",
-    "react-virtualized": "^9.22.3"
+    "react-lifecycles-compat": "^3.0.4"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
