@@ -1,5 +1,5 @@
 {
-  "name": "@nosferatu500/react-sortable-tree",
+  "name": "@codemayonnaise/react-sortable-tree",
   "version": "3.0.7",
   "description": "Drag-and-drop sortable component for nested data and hierarchies",
   "scripts": {
@@ -10,7 +10,6 @@
     "clean:storybook": "rimraf build",
     "lint": "eslint src",
     "prettier": "prettier --write \"{src,example/src,stories}/**/*.{js,css,md}\"",
-    "prepublishOnly": "yarn test && yarn build",
     "release": "standard-version",
     "test": "jest --env=jsdom",
     "test:watch": "jest --watchAll",
