@@ -8,7 +8,7 @@ var React = require('react');
 var reactDnd = require('react-dnd');
 var reactDndHtml5Backend = require('react-dnd-html5-backend');
 var reactVirtualized = require('react-virtualized');
-var withScrolling = require('@nosferatu500/react-dnd-scrollzone');
+var withScrolling = require('@codemayonnaise/react-dnd-scrollzone');
 var reactDom = require('react-dom');
 
 function _interopDefaultLegacy (e) { return e && typeof e === 'object' && 'default' in e ? e : { 'default': e }; }

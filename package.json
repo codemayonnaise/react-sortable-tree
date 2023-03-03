@@ -74,10 +74,10 @@
     ]
   },
   "dependencies": {
-    "@nosferatu500/react-dnd-scrollzone": "^1.0.14",
+    "@codemayonnaise/react-dnd-scrollzone": "^1.0.17",
     "lodash.isequal": "^4.5.0",
     "prop-types": "^15.7.2",
-    "react-dnd": "^14.0.2",
+    "react-dnd": ">=11.1.3",
     "react-dnd-html5-backend": "^14.0.0",
     "react-lifecycles-compat": "^3.0.4",
     "react-virtualized": "^9.22.3"

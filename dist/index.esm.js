@@ -4,7 +4,7 @@ import React, { Component, Children, cloneElement } from 'react';
 import { DragSource, DropTarget, DndContext, DndProvider } from 'react-dnd';
 import { HTML5Backend } from 'react-dnd-html5-backend';
 import { List, AutoSizer } from 'react-virtualized';
-import withScrolling, { createScrollingComponent, createVerticalStrength, createHorizontalStrength } from '@nosferatu500/react-dnd-scrollzone';
+import withScrolling, { createScrollingComponent, createVerticalStrength, createHorizontalStrength } from '@codemayonnaise/react-dnd-scrollzone';
 import { findDOMNode } from 'react-dom';
 
 function ownKeys(object, enumerableOnly) {
