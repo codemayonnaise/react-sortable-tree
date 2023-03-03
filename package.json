@@ -1,6 +1,6 @@
 {
   "name": "@codemayonnaise/react-sortable-tree",
-  "version": "3.0.10",
+  "version": "3.0.11",
   "description": "Drag-and-drop sortable component for nested data and hierarchies",
   "scripts": {
     "prebuild": "yarn lint && yarn clean",
